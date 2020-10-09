@@ -30,3 +30,23 @@ More features and a bullet/subbullet list example:
 ---
 If you don't see two gray and white halves of the page, widen your browser window. Try making an edit right now on the left side, and good luck!
     
+
+
+
+
+A to Z of manuals
+
+[A](https://www.gov.uk/government/collections/hmrc-manuals#a) [B](https://www.gov.uk/government/collections/hmrc-manuals#b) C D E F G H I J K L 
+
+------
+
+
+
+### A
+
+[Admin Law Manual](https://www.gov.uk/hmrc-internal-manuals/admin-law-manual)
+
+Guidance on admin law covering incorrect advice to customers, collection and management, extra statutory concessions and statements of practice.
+
+## Coronavirus (COVID-19) ## ## Defer your Self Assessment payment on account due to coronavirus (COVID-19) ##
+
